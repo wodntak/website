@@ -1,22 +1,22 @@
 /* myStyle.css */
 body {
-    background-color: #48CFAD;
+    background-color: #0e1111;
     color: #37BC9B;
    }
    h1 {
-    background-color: rgb(255, 255, 255);
+    background-color: #282828;
     color: rgb(255, 255, 255);
     text-align: center;
-    font: italic 200% fantasy;
+    font: Georgia 200% fantasy;
    }
    h2 {
     color: rgb(255, 255, 255);
     text-align: center;
-    font: italic 200% fantasy;
+    font: Georgia 200% fantasy;
    }
    p {
-    background-color: rgb(255, 255, 255);
-    color: #37BC9B;
+    background-color: #0c0032;
+    color: #ffffff;
     text-align: right;
     border: 3px groove rgb(0, 0, 0);
    }
