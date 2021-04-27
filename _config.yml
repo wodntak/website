@@ -18,7 +18,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Welcome to my Website
 email      : yyasu1212@naver.com #this is also the email contact forms will go to
-description: "Site description"
+description: "Jaehyeon's personal website"
 author     : Jaehyeon Yang
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
